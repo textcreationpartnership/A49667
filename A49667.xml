@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Last will and testament of the late deceased French jackanaps who was wont to attend the bears with certain instructions to succeeding English apes : published to prevent the counterfeiting the said will and testament, and to obviate the false slanders of such who maliciously give out that he died intestate / taken in short-hand by a zealous scribe who used to take sermon notes out of the grave mouths of Father Hugh Peters and Father Venner.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49667</idno>
+            <idno type="STC">Wing L532</idno>
+            <idno type="STC">ESTC R43354</idno>
+            <idno type="EEBO-CITATION">27261257</idno>
+            <idno type="OCLC">ocm 27261257</idno>
+            <idno type="VID">110058</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49667)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110058)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1724:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Last will and testament of the late deceased French jackanaps who was wont to attend the bears with certain instructions to succeeding English apes : published to prevent the counterfeiting the said will and testament, and to obviate the false slanders of such who maliciously give out that he died intestate / taken in short-hand by a zealous scribe who used to take sermon notes out of the grave mouths of Father Hugh Peters and Father Venner.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for May-day, and are to be sold in Hide-Park,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110058:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <p>THE Laſt VVILL and TESTAMENT Of the late Deceaſed French Jackanaps, VVho was wont to attend the BEARS: VVith certain Inſtructions to ſucceeding Engliſh APES.</p>
+            <p>Publiſhed to prevent the counterfeiting the ſaid <hi>VVill and Teſtament;</hi>
+            </p>
+            <p>And to obviate the falſe Slanders of ſuch who maliciouſly give out, That he dyed Inteſtate.</p>
+            <p>Taken in Short-hand by a Zealous Scribe, who uſed formerly to take Sermon Notes out of the grave Mouthes of Father <hi>Hugh Peters</hi> and Father <hi>Venner.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>May-day,</hi> and are to be ſold in <hi>Hide-Park.</hi> 1661.</p>
+            <pb facs="tcp:110058:2"/>
+            <!-- PDF PAGE 47 -->
+            <pb facs="tcp:110058:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 47 -->
+            <pb facs="tcp:110058:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <pb facs="tcp:110058:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110058:4" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <pb n="3" facs="tcp:110058:4"/>
+            <!-- PDF PAGE 49 -->
+            <head>The Laſt VVill and Teſtament of the late deceaſed <hi>French facha<g ref="char:EOLhyphen"/>nap's,</hi> who was wont to attend the Bears, <hi>&amp;c.</hi>
+            </head>
+            <p>FIrſt, for my Executor I do hereby appoint my well-beloved Kinſman and Patron the Taylor that went over to <hi>France</hi> to make Cloathes there, for his Cuſtomers here, in order to the approaching ſolemnity, whom I alſo appoint to carry my Bones, when I have paid my tribute to death, back into <hi>France,</hi> and inter them ſolemnly amongſt the <hi>French,</hi> we being the ancient Inhabi<g ref="char:EOLhyphen"/>tants of that Nation (according to the moſt worm<g ref="char:EOLhyphen"/>eaten Records and Antiquities were ever retrived by <hi>Selden</hi> and <hi>Cambden</hi> thoſe rat-crobbing Antiquaries) from whence they unto this day borrow their Mimi<g ref="char:EOLhyphen"/>cal geſtures, Apiſh airineſs in garb and countenance.</p>
+            <p>As for my ridiculous Converſation and Courtſhip affected, I bequeath to moſt of our new-returned Travellers, and to all ſuch who would be thought ſo that never travelled further then to <hi>Banſted downs</hi> to a Horſe-race, or at furtheſt to meet the King at <hi>Dover,</hi> all whom I leave to be countenanced and admired by your now Madams, who give the preminence to our
+<pb n="4" facs="tcp:110058:5"/>
+               <!-- PDF PAGE 50 -->Cringing Family, and the more that Gentlemen participate of our Nature, the more accompliſhed Perſons and Courtiers they account them; for which Siſterly conceipt and opinion, we intail to their chil<g ref="char:EOLhyphen"/>dren the perfections onely of dancing, dopping for<g ref="char:EOLhyphen"/>ced face-grinning, called ſmiling, talking idly, com<g ref="char:EOLhyphen"/>plementing, running dog mad in love, hugging their Miſtriſſis Gloves, fetching and carrying like Spani<g ref="char:EOLhyphen"/>els, of being bred up Dunces, Aſſes, and Puppets, with a ſtrong Antipathy to all Learning and Arts.</p>
+            <p>As for the itch of my Tayl, I bequeath to ſtale Chamber-maids, Green-ſickneſſed Wenches, to moſt of your zealous ſiſters poach'd in the Geneva Pip<g ref="char:EOLhyphen"/>kin, and high Capon-fed Citizens wives, and old La<g ref="char:EOLhyphen"/>dies that continue to patch and paint after fifty.</p>
+            <p>As for my activity I bequeath to the <hi>French</hi> Na<g ref="char:EOLhyphen"/>tion, beſide many other of my perſonal Qualities and Endowments, and alſo to Dancing Maſters, Dancers on the Ropes, Jack-puddings, ſuch as ſhow feates of activity. &amp;c.</p>
+            <p>And to ſuch as ſavour nothing but what is <hi>French</hi> in diet, habit, deportment, and all other things I do bequeath my Braines, beſide my natural aptneſs to imitate any thing that is ridiculous.</p>
+            <p>The nimbleneſs of my hands and fingers in turning over hair by hair, and looking of heads, I bequeath to <hi>French</hi> Tire-women eſpecially, and all ſuch that dreſs Ladies heads, and manage their hair <hi>a la mode,</hi> with a tedious whole-mornings labour, which in the after<g ref="char:EOLhyphen"/>noons is to be ſeen, and ſet to the view into the bar<g ref="char:EOLhyphen"/>gain, with the Playes, at the new Theater, and other Play-houſes.</p>
+            <p>
+               <pb n="5" facs="tcp:110058:5"/>
+               <!-- PDF PAGE 50 -->
+My Courage and Valour I bequeath to young Carpet-Knights, and ſuch White-bread and Butter Soldiers that never knew any other <hi>hardſhip</hi> but a Feather-bed, no <hi>want of proviſion,</hi> but a Caudle in the morning, or <hi>Jeccaletto,</hi> no <hi>Alarums,</hi> but a noiſe of Fidlers, no <hi>Skirmiſhes</hi> but with Ladies on Couches and Day-beds, no <hi>Batteries</hi> but what they have made in Tavern windows, no <hi>Sieges</hi> but over Cloſe-ſtools, no <hi>Wounds</hi> but Patches and ſlaſh Doublets, have handled no <hi>Arms</hi> but Ladies Bodkins, Busks and Fans, fired no <hi>Guns</hi> but Tobacco-pipes, ride no <hi>Hor<g ref="char:EOLhyphen"/>ſes</hi> but a hunting, commanded no <hi>Parties</hi> but a pack of Hounds, ſtormed no <hi>breaches</hi> but what Nature in the kinder ſort of women has laid open to them; plant<g ref="char:EOLhyphen"/>ed no <hi>Ordinance</hi> but volleys of Bumbaſt comple<g ref="char:EOLhyphen"/>ments, <hi>drawn no Lines</hi> but about Petticoats, <hi>led no Soldiers</hi> but their Lacqueys, lay on <hi>no Guards</hi> but on the Counters for night-walking, know no <hi>Tat Towes</hi> but a luſty doſe to bed wards, no <hi>Parades</hi> but dreſſing themſelves, no <hi>Patrols</hi> but from Bawdy-houſe to Bawdy-houſe.</p>
+            <p>As for my Cap and Feather, Jacket, and my other waring Habilliments <hi>Cap ape,</hi> I leave to the City Taylors to cut out the next ſummers faſhion by, with<g ref="char:EOLhyphen"/>out the unneceſſary charge of ſending into <hi>France</hi> for Paterns.</p>
+            <p>Many other things I have to beſtow, which I leave to the petty maungy <hi>French</hi> Traders, Handicraft-men and women who ſwarm over into <hi>England,</hi> to be pro<g ref="char:EOLhyphen"/>miſcuouſly diſpoſed to thoſe that ſhall think fit to ſhare in my <hi>Legacies.</hi>
+            </p>
+            <p>As for my Epitaph, I deſire is may be written in
+<pb n="6" facs="tcp:110058:6"/>
+               <!-- PDF PAGE 51 -->
+               <hi>French,</hi> and if any modern Poet ſhall be pleaſed to make mournful Ballats of me, I deſire they may be ſung to ſhrill <hi>French</hi> tunes, in conſort with a Fla<g ref="char:EOLhyphen"/>gelet.</p>
+            <p>To my Succeſſors I ſhall only leave theſe Injuncti<g ref="char:EOLhyphen"/>ons of a dying Ape, whoſe origine, 'tis true, was from <hi>France,</hi> but his breeding and bringing up ſtill in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> but alwayes after the <hi>French</hi> faſhion.</p>
+            <p>Firſt, I enjoy you to have your <hi>French</hi> Tutors, <hi>French</hi> Dancing maſters, <hi>French</hi> Lacqueys, <hi>French</hi> Cooks and if ye chance to have yong Apes, to provide <hi>French</hi> Women, and <hi>French</hi> Nurſes to attend them, leſt they ſhould degenerate from our race; ſo will they learn the <hi>French</hi> Tongue, the <hi>French</hi> impu<g ref="char:EOLhyphen"/>dence, the <hi>French</hi> levity, the <hi>French</hi> letchery, and all other <hi>French</hi> fantaſtique manners, without endan<g ref="char:EOLhyphen"/>gering your pretty Baby in Forraign travail, or di<g ref="char:EOLhyphen"/>vorcing them from the ſucking-bottle at home, and the breſts of their tender mothers.</p>
+            <p>Secondly, let all your Cloathes come out of <hi>France,</hi> or be made here by <hi>French</hi> Taylors, 'tis no matter if they be Botchers, ſuch who in <hi>France,</hi> their own Country, could never earn oyl and vineger to the graſs and herbs they pick up in fields on free-coſt, to cramb their horſe-ſallat devouring maws with, nay not ſo much as ſalt to their onions, and ſtinking butter to frie their Toad-ſtools, yet here they paſs for rare needle-ſhop-board Artiſts, although in <hi>France</hi> they wrought in lowſie ſtalls, in petty Villa<g ref="char:EOLhyphen"/>ges to Country Peaſants, and cut out not higher work then Canvaſs Doublets, and Canvaſs Breeches, perhaps might foot Stockings, if any were worn in that Village, which is not uſual.</p>
+            <p>
+               <pb n="7" facs="tcp:110058:6"/>
+               <!-- PDF PAGE 51 -->
+Thirdly, let all your Petriwigs and Bands be brought out of <hi>France,</hi> although they be made of horſe tails, and cobbled on a cap like thrums on a map. Let thy Gloves too come from thence, al<g ref="char:EOLhyphen"/>though ſo monſtrouſly unſhaped, as if they had been cut out with a Hatchet, not Siſſers, and ſeam'd like a ſack with large ſtiches, and needle of a Harnaſs-maker, not of a Glover, and be ſure to buy nothing elſe, either for ornament or ware, but what is cryed up for <hi>French.</hi>
+            </p>
+            <p>Fourthly, let nothing pleaſe your eyes but <hi>French</hi> bravery, <hi>French</hi> ſhows, and all other objects appro<g ref="char:EOLhyphen"/>priate to that ſenſe; nothing pleaſe your eares but <hi>French</hi> Muſique, <hi>French</hi> voices, &amp;c. Nothing your taſte but <hi>French</hi> Guſto's, <hi>French</hi> Diſhes, <hi>French</hi> Sawces, &amp;c. Nothing your ſmell but <hi>French</hi> Odours, nothing your touch but <hi>French</hi> women, and finally, let nothing pleaſe your underſtanding but <hi>French</hi> follies.</p>
+            <p>Fiftly, keep no good not open houſe, as the an<g ref="char:EOLhyphen"/>cient Gentry were formerly wont to do in <hi>England,</hi> but embrace the <hi>French</hi> parſimonie. Let your Kitchins be chafing-diſhes, and your Butteries a few bottles of <hi>Vin de Pari,</hi> with whole palefuls of water. Give your Families ſlender board-wages, let them ſhift for their livings, and feed ſparingly, ſo will they be a leſs burthen to the tails of your Coaches, which uſually carries the whole Family behind them, beſide an old woman to look to the houſe at home; with this provident thriſt may the charge of wood, coal, and Chimny-ſweeping be ſaved, and no ſcraps and offals prodigally caſt away to dogs and beggers at the
+<pb n="8" facs="tcp:110058:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 52 -->gates, onely the crooked noſed naked <hi>French</hi> little dog, my Lady pampers, is to make up the ſecond at the upper end of the Table, and feed in the ſame diſh.</p>
+            <p>But alas! I feel the pangs of death upon me (elſe I had many other things and inſtructions to minde you of) and the breath going from me, which I do here bequeath to all thoſe men or women of the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Nation, who daily plead in praiſe of the <hi>French,</hi> and of their faſhions, and cuſtoms, to the diſparage<g ref="char:EOLhyphen"/>ment of their own native Country, from whence they receive their breath and nouriſhment. And it would not be amiſs that all thoſe who are ſo much for em<g ref="char:EOLhyphen"/>ploying <hi>French,</hi> and for ſlighting, villifying, and de<g ref="char:EOLhyphen"/>ſpiſing their own Country-men, might have all their Beefs and Muttons, which this Iſland in ſuch plenty afford, fetched out of <hi>France,</hi> and ſold here at dear rates for their <hi>Bellies,</hi> ſince they let the <hi>French</hi> gain ſo much by their <hi>back.</hi>
+            </p>
+            <p>With this he bow'd his head, kiſſed his paw, hea<g ref="char:EOLhyphen"/>ved up his ſhoulders, gave a <hi>French</hi> ſhrug, and ex<g ref="char:EOLhyphen"/>pired.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110058:7"/>
+            <!-- PDF PAGE 52 -->
+         </div>
+      </body>
+   </text>
+</TEI>
